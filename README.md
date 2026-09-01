@@ -1,4 +1,4 @@
-# HotelTalk · Palmeras V1 definitiva
+# HotelTalk · Palmeras V1 
 
 100 frases prácticas para compañeros del hotel.
 
